@@ -1,0 +1,1 @@
+{"name": "Auto Labeller", "slug": "plugin-auto-labeller", "kind": "plugin", "description": "Infers area and kind labels from task text and prepends the missing ones to the title.", "version": "1.0.0", "priceMinor": 0, "currency": "USD", "include": ["plugin.json", "index.js", "package.json"]}
