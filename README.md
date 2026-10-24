@@ -49,6 +49,6 @@ Operations returned:
 ## Install
 
 Install from the Camillia marketplace (or upload the files listed in
-`hub.json`: `plugin.json`, `index.js`, `package.json`) and enable the plugin
+`extension.json`: `plugin.json`, `index.js`, `package.json`) and enable the plugin
 for your workspace. Requires Node.js 22 or newer to run the tests with
 `npm test`.
